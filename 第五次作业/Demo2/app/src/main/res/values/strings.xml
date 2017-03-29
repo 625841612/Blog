@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo2</string>
+    <string name="textView">Hello World, Logactivity!</string>
+    <string name="textView2">Hello World, LogActivity2!</string>
+</resources>
