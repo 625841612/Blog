@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_calendar"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:showAsAction="ifRoom"
+        android:title="显示当前时间" />
+    <item
+        android:id="@+id/action_call"
+        android:icon="@android:drawable/sym_action_call"
+        android:showAsAction="ifRoom"
+        android:title="打电话" />
+    <item
+        android:id="@+id/action_msm"
+        android:showAsAction="ifRoom|withText"
+        android:title="发信息" />
+</menu>
