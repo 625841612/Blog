@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentReceiver</string>
+    <string name="btn">跳转到另外intent</string>
+</resources>

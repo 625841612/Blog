@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentReciview</string>
+    <string name="hello">Hello World, IntentReceiverInJava!</string>
+
+</resources>
